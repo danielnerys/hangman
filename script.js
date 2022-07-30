@@ -11,7 +11,6 @@ const resultText = document.getElementById("result-text")
 
 let options = {
   times: ['Corinthians',
-  'Sao Paulo',
   'Flamengo',
   'Palmeiras',
   'Santos',
